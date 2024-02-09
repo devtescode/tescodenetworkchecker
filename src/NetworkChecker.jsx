@@ -161,7 +161,7 @@ const NetworkChecker = () => {
 
                 </div>
                 <footer>
-                    <span className='footer'>Powered by ❤ <a target='blank' href="www.linkedin.com/in/teslim-agboola-ab069b252">Tescode</a></span>
+                    <span className='footer'>Powered by 👨‍💻👨‍💻 <a target='blank' href="www.linkedin.com/in/teslim-agboola-ab069b252">Tescode</a></span>
                 </footer>
             </div>
         </>
